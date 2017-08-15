@@ -13,5 +13,5 @@ In the interactive python console, you can type
 searchBooks([word])
 ```
 To get books whose vectors best match the word embedding for the word you entered. 
-```
+
 Do not edit the titles.dat
