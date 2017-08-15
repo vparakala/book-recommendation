@@ -10,7 +10,7 @@ python -i findSimilarity.py
 ```
 In the interactive python console, you can type 
 ```
-searchBooks([word])
+searchBooks('word')
 ```
 To get books whose vectors best match the word embedding for the word you entered. 
 
