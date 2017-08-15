@@ -1,7 +1,7 @@
 ## Instructions
 If you want to follow the same steps I did, first download the books. The books are from [Project Gutenberg](http://www.gutenberg.org/). You can download the data using ```download.sh```. 
 
-Next, move all the text files into one directory, and create a list of all of them and name it ```files```. With this, you can run ```sampler.py``` to get a sample of words from each book (written to ```[name].sample```).
+Next move all the text files into one directory, and create a list of all of them and name it ```files```. With this, you can run ```sampler.py``` to get a sample of words from each book (written to ```[name].sample```).
 
 Then run ```tfidf.py``` on ```samples``` a list of these sample files, to get each of the sample files with tfidf weightings (written to ```[name].tfidf```)
 
